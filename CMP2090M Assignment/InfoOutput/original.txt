@@ -1,0 +1,5 @@
+Regular PPM image
+File path: Images/Zoom/zIMG_1.ppm
+Image width: 750
+Image height: 750
+Image depth: 255

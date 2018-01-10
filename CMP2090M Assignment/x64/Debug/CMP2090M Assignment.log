@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ste\dropbox\uni work\year 2\oop\assessment item 1\cmp2090m assignment\cmp2090m assignment\main.cpp(249): warning C4018: '>': signed/unsigned mismatch
+c:\users\ste\dropbox\uni work\year 2\oop\assessment item 1\cmp2090m assignment\cmp2090m assignment\main.cpp(258): warning C4018: '>': signed/unsigned mismatch
+c:\users\ste\dropbox\uni work\year 2\oop\assessment item 1\cmp2090m assignment\cmp2090m assignment\main.cpp(267): warning C4018: '>': signed/unsigned mismatch
+c:\users\ste\dropbox\uni work\year 2\oop\assessment item 1\cmp2090m assignment\cmp2090m assignment\main.cpp(276): warning C4018: '>': signed/unsigned mismatch
+  CMP2090M Assignment.vcxproj -> C:\Users\Ste\Dropbox\Uni Work\Year 2\OOP\Assessment Item 1\CMP2090M Assignment\x64\Debug\CMP2090M Assignment.exe

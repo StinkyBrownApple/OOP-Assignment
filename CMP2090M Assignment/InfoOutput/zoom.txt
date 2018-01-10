@@ -1,0 +1,6 @@
+Zoomed PPM image
+File path: OutputImages/bilinearROI.ppm
+Image width: 1200
+Image height: 1200
+Image depth: 255
+Zoom method: Bilinear

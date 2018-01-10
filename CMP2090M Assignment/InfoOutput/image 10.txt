@@ -1,0 +1,5 @@
+Regular PPM image
+File path: Images/BlendSet1/IMG_11.ppm
+Image width: 3264
+Image height: 2448
+Image depth: 255
